@@ -6,8 +6,8 @@
     <groupId>cn</groupId>
     <artifactId>psychology</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
-
+    <packaging>war</packaging>
+  
     <name>psychology</name>
     <description>zhenshi project for Spring Boot</description>
 

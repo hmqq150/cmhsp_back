@@ -7,7 +7,7 @@
     <artifactId>psychology</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-  
+
     <name>psychology</name>
     <description>zhenshi project for Spring Boot</description>
 
@@ -133,10 +133,6 @@
             <groupId>net.sourceforge.nekohtml</groupId>
             <artifactId>nekohtml</artifactId>
             <version>1.9.22</version>
-        </dependency>
-        <dependency>
-            <groupId>com.thetransactioncompany</groupId>
-            <artifactId>cors-filter</artifactId>
         </dependency>
 
 

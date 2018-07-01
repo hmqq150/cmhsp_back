@@ -214,6 +214,7 @@ public class TestController {
         jsonObject.put("typeAnaly",jsonArrayScoreByType);
 
 
+        
         return jsonUtil.JsonPackage(0,jsonObject);
         //return jsonUtil.JsonPackage(0,list);
 
